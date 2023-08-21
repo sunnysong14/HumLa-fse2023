@@ -1,10 +1,9 @@
-# A Practical Human Labeling Method for Online JIT-SDP (HumLa)
+# HumLa: A Practical Human Labeling Method for Online Just-in-Time Software Defect Prediction
 
-This repository contains the source codes to implement our submitted manuscript for FSE2023:
+This repository contains the source codes together with the datasets to replicate the following paper:
 
 ```
-A Practical Human Labeling Method for Online Just-in-Time Software Defect Prediction
-(Submission #588)
+Liyan Song, Leandro L. Minku, Cong Teng and Xin Yao. "A Practical Human Labeling Method for Online Just-in-Time Software Defect Prediction", in ACM Symposium on the Foundations of Software Engineering (FSE), 2023 (accepted)
 ```
 
 ## Dependencies
