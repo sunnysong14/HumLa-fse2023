@@ -1,4 +1,4 @@
-# HumLa: A Practical Human Labeling Method for Online Just-in-Time Software Defect Prediction
+# HumLa: A Practical Human Labeling Method for Online JIT-SDP
 
 This repository contains the source codes together with the datasets to replicate the following paper:
 
@@ -171,7 +171,6 @@ run_HumLa(human_dict, project_id, n_test=n_test, seeds=seeds)
 Enjoy your playing ...
 
 
-<p align="right">Anonymous Authors</p>
-<p align="right">June 2023</p>
-
+<p align="right">Liyan Song, songly@sustech.edu.cn</p>
+<p align="right">August 2023</p>
 
