@@ -109,7 +109,7 @@ We can run HumLa and Eco-HumLa via the function `run_HumLa()` in `main.py`.  Inp
   - `verbose_int=-1` means that nothing would be printed to the console.
   - `verbose_int=2` means that the most detailed information can be printed to the console.
 - `is_plot`: `True` or `False` to indicate whether 2D plots would be shown during the process; `is_plot=False` by default. 
-  - Note `is_plot = True` would requre more computational costs.  
+  - Note `[activity.html](..%2F..%2F..%2F..%2FOneDrive%20-%20%C4%CF%B7%BD%BF%C6%BC%BC%B4%F3%D1%A7%2FCAREER%2FLiyan-career%2FLiyan-CV%40%2Fcareer-Liyan%40%2Fhomepage%2Fgithub-synchronized%40%2Fsunnysong14.github.io%2Factivity.html)is_plot = True` would requre more computational costs.  
 
 
 Examples of `human_dict` and the way to run the waiting time method, Eco-HumLa, and HumLa at different levels of human noise and effort are as follows.
