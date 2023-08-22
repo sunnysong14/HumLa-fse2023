@@ -1,8 +1,7 @@
 [![DOI](https://sandbox.zenodo.org/badge/681204474.svg)](https://sandbox.zenodo.org/badge/latestdoi/681204474)
 
-************************************************************
-# HumLa: A Practical Human Labeling Method for Online JIT-SDP
-************************************************************
+*********************************************************************************************
+# HumLa: A Practical Human Labeling Method for Online Just-in-Time Software Defect Prediction
 
 This repository contains the source codes together with the datasets to replicate the following paper:
 
