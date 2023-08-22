@@ -167,12 +167,3 @@ run_HumLa(human_dict, project_id, n_test=n_test, seeds=seeds)
 - evaluation_online: this script implements performance metrics such as G-Mean and MCC for the online JIT-SDP.
 - `utility`: this script contains utility methods that are used throughout this project.
 
-
-
-
-Enjoy your playing ...
-
-
-<p align="right">Liyan Song, songly@sustech.edu.cn</p>
-<p align="right">August 2023</p>
-
