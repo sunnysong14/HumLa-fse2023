@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8272293.svg)](https://doi.org/10.5281/zenodo.8272293)
 
 *********************************************************************************************
 # HumLa: A Practical Human Labeling Method for Online Just-in-Time Software Defect Prediction
