@@ -4,9 +4,7 @@
 
 This repository contains the source codes together with the datasets to replicate the following paper:
 
-<pre>
-Liyan Song, Leandro L. Minku, Cong Teng and Xin Yao. "A Practical Human Labeling Method for Online Just-in-Time Software Defect Prediction",<br>in ACM Symposium on the Foundations of Software Engineering (FSE), 2023 (accepted)
-</pre>
+> Liyan Song, Leandro L. Minku, Cong Teng and Xin Yao. "A Practical Human Labeling Method for Online Just-in-Time Software Defect Prediction", in ACM Symposium on the Foundations of Software Engineering (FSE), 2023 (accepted)
 
 ## Dependencies
 `HumLa and ECo-HumLa` work with Python 3.5+ **only**.
